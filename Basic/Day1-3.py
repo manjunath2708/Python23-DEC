@@ -28,3 +28,5 @@ glass2 = input("juice")
 # glass1, glass2 = glass2, glass1
 
 # print("glass1, glass2")
+
+###naming a variable
