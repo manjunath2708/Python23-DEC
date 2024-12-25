@@ -32,3 +32,5 @@ name_of_the_user = input("Enter your Name")
 length_of_Name = len(name_of_the_user)
 print(type("Number of letters in yopur Name: "))
 print(type(length_of_Name))
+
+print("Number of letters in your name: " + str(length_of_Name))
